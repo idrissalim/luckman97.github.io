@@ -1,0 +1,11 @@
+.container {
+  background: url(../img/Firefox_wallpaper.jpeg);
+  background-color: black;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+ font-style:oblique;
+}
+h2 [
+ text-align: center;
+]
